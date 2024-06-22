@@ -1,6 +1,6 @@
 #cab{
-    background-color: #333;
-    color: #fff;
+    background-color: beige;
+    color: #f3149d;
     text-align: center;
     padding: 20px;
     margin-bottom: 20px;
@@ -13,22 +13,39 @@
      background-color: beige;
 
 }
-#ver{
-    border: 1px black solid;
-     margin-bottom: 20px;
+#habilidades{
+    text-align: center;
+    border: 1px rgb(184, 66, 148) solid;
+      margin-bottom: 20px;
+      padding-left: 10px;
+      font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+      color: black;
      
 }
-#si{
-    border: 1px black solid;
+.lista{ border: 1px solid black;
+display: inline;
+padding: 5px; }
+
+#empresas{
+    border: 1px rgb(184, 66, 148) solid;
     margin-bottom: 20px;
+    padding-left: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   
 }
-#ok{
-    border: 1px black solid;
-    margin-bottom: 20px;
+#proyecto{
+    border: 1px rgb(184, 66, 148) solid;
+     margin-bottom: 20px;
+     padding-left: 10px;
+     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
 }
-#no{
-    border: 1px black solid;
-    margin-bottom: 20px;
+#contactos{
+    border: 1px rgb(184, 66, 148) solid;
+     margin-bottom: 20px;
+     padding-left: 10px;
+     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
 }
 
 
